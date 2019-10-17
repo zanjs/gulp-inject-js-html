@@ -1,0 +1,20 @@
+{
+  "name": "gulp-inject-js-html",
+  "version": "1.1.0",
+  "description": "a gulp plugin to injects javascript under a script tag",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
